@@ -1,1 +1,1 @@
-# RM2-Project
+Java application that displays router attributes via SNMP protocol.
